@@ -6,5 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/Eug620/e-bookstore/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eug620/e-bookstore.git"
+  },
+  "homepage": "https://github.com/Eug620/e-bookstore#readme",
   "author": "_yz"
 }
